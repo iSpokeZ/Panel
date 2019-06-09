@@ -1,0 +1,21 @@
+name: Panel
+main: iSpokeZ\Panel
+api: [3.8.1]
+version: 1.0
+author: iSpokeZ
+commands:
+  panel:
+    description: Panel Sistemi (iSpokeZ)
+permissions:
+  feed.kmt:
+    default: op
+  heal.kmt:
+    default: op
+  flyac.kmt:
+    default: op
+  flykapa.kmt:
+    default: op
+  envt.kmt:
+    default: op
+  repair.kmt:
+    default: op
